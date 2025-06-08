@@ -122,7 +122,7 @@ require (
 	k8s.io/cli-runtime v0.29.2 // indirect
 	k8s.io/client-go v0.29.2 // indirect
 	k8s.io/klog/v2 v2.120.1 // indirect
-	k8s.io/kube-openapi v0.0.0-20231113174909-778a5567bc1e // indirect
+	k8s.io/kube-openapi c8a335a9a2ff // indirect
 	k8s.io/utils v0.0.0-20240102154912-e7106e64919e // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 	sigs.k8s.io/kustomize/api v0.15.0 // indirect
